@@ -1,4 +1,4 @@
-import react from 'react';
+
 import './ImageLinkForm.css';
 import 'tachyons';
 
@@ -6,7 +6,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
 	return (
 		<div className='f3'>
 			<p className='f3'>
-				{'This magic Light will detect faces in your picture, try it'}
+				{'I will detect the face in the picture, please copy the adress of the image, each detected image will raise your count'}
 			</p>
 			<div className='center'>
 				<div className='center form pa4 br3 shadow-5'>

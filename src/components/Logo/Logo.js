@@ -1,4 +1,4 @@
-import react from 'react';
+
 import Tilt from 'react-tilt';
 import light from './smart-energy.png'
 import './Logo.css';
