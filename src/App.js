@@ -22,6 +22,7 @@ const particlesOptions = {
     }
   }
 }
+
 const initialState = {
         input: '',
         imageUrl: '',
@@ -36,6 +37,7 @@ const initialState = {
           joined: ''
         }
     }
+    
 class App extends Component {
   constructor() {
     super();
